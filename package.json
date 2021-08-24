@@ -1,0 +1,27 @@
+{
+  "name": "momentumx",
+  "version": "1.0.0",
+  "description": "Interview Task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Destaby/MomentumX.git"
+  },
+  "author": "Mykola Rudyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Destaby/MomentumX/issues"
+  },
+  "homepage": "https://github.com/Destaby/MomentumX#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "koa": "^2.13.1",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^10.1.1",
+    "redis": "^3.1.2"
+  }
+}
